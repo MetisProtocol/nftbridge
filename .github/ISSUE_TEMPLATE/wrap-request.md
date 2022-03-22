@@ -9,5 +9,5 @@ assignees: ''
 
 Native NFT chainid (Andromeda 1088, Stardust 588, Ethereum 1, Rinkeby 4):
 Native NFT contract address:
-Deployed wrap NFT contract address (verified):
+Deployed wrap NFT contract address:
 Transaction hash of the contract deployment:
